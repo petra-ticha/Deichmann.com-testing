@@ -1,4 +1,4 @@
-#Deichmann.cz-testing
+## Deichmann.com testing
 
 Testování e-shopu deichmann.com zaměřené na negativní 
 a edge case scénáře.
