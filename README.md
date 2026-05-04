@@ -1,4 +1,4 @@
-# QA Portfolio — Deichmann.cz
+#Deichmann.cz-testing
 
 Testování e-shopu deichmann.com zaměřené na negativní 
 a edge case scénáře.
